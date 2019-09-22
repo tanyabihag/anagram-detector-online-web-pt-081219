@@ -2,7 +2,7 @@ class Anagram
   
 attr_accessor :word 
 
-initi
+def initialize 
 
 def match(array)
   
